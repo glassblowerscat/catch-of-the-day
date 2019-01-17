@@ -3,4 +3,5 @@ node_modules/
 variables.env
 npm-debug.log
 /*.env
+build/
 
