@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "public": true,
-  "regions": [
-    "sfo1"
-  ],
-  "name": "catch-of-the-day",
-  "alias": "cotd.glassblowerscat.com",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@now/static-build"
-    }
-  ]
-}
+{}
